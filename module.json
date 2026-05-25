@@ -3,6 +3,7 @@
   "title": "Empiricist: Wizard Subclass",
   "description": "The Empiricist — a wizard who refuses to accept magic as mysticism and insists it is an undiscovered branch of natural philosophy. Features: Natural Philosopher's Index, Variable Substitution, Aetheric Interference, Precision Calibration, and Theoretical Maximum.",
   "version": "1.0.0",
+  "manifest": "file:///C:/Users/felen/AppData/Local/FoundryVTT/Data/modules/empiricist/Empiricist/module.json",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
