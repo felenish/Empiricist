@@ -1,0 +1,39 @@
+{
+  "id": "empiricist-wizard",
+  "title": "Empiricist: Wizard Subclass",
+  "description": "The Empiricist — a wizard who refuses to accept magic as mysticism and insists it is an undiscovered branch of natural philosophy. Features: Natural Philosopher's Index, Variable Substitution, Aetheric Interference, Precision Calibration, and Theoretical Maximum.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Homebrew",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "empiricist-compendium",
+      "label": "Empiricist Subclass",
+      "path": "packs/empiricist-compendium",
+      "type": "Item",
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.1.0",
+          "verified": "5.1.1"
+        }
+      }
+    ]
+  },
+  "flags": {}
+}
